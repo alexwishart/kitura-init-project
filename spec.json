@@ -1,0 +1,7 @@
+{
+  "appType": "scaffold",
+  "appName": "kituraInit",
+  "docker": true,
+  "metrics": true,
+  "services": {}
+}
